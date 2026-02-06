@@ -1,7 +1,7 @@
-#Cursor.html
+## Cursor.html
 html file
-#Cursor.Css
+## Cursor.Css
 css file for cursor.html
-#All images and screen shots are stored in screenshot folder
+## All images and screen shots are stored in screenshot folder
 
 
