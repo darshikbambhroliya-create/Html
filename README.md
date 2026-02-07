@@ -1,16 +1,7 @@
-# HTML Resume
-
-## Description
-This is my personal resume created using HTML.  
-It contains sections such as About Me, Education, Skills, and Contact Information.  
-
-## Live Screenshot
-
-
-## Screenshots
-
-## Screenshots
-Home Page
-![Home Page](screenshots/liveshot.png)
+## Cursor.html
+html file
+## Cursor.Css
+css file for cursor.html
+## All images and screen shots are stored in screenshot folder
 
 
